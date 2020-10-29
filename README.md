@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Get in touch!](mailto:ayubaswad@gmail.com)
+[Reach me here!](mailto:ayubaswad@gmail.com)
 
 <!--
 **fsevenm/fsevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Ayub's github stats](https://github-readme-stats.vercel.app/api?username=fsevenm&count_private=true&show_icons=true)
-
-
-Create your own badge [here](https://github.com/anuraghazra/github-readme-stats)
