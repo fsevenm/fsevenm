@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working @imajinr as a backend engineer
-- 🌱 I’m currently learning to be good coder
+- 🌱 I’m currently learning to be a good coder
 - 💬 Ask me about anything that satisfies you
-- 📫 How to reach me: ayubaswad[at]gmail.com
+- 📫 How to reach me: mail to ayubaswad[at]gmail.com
 - 😄 Pronouns: he/him/mas
 - ⚡ Fun fact: I don't know any games, seriously! :D
 
