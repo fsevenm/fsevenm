@@ -1,5 +1,10 @@
 ### Hi there 👋
-[Reach me here!](mailto:ayubaswad@gmail.com)
+- 🔭 I’m currently working @imajinr as a backend engineer
+- 🌱 I’m currently learning to be good coder
+- 💬 Ask me about anything that satisfies you
+- 📫 How to reach me: ayubaswad[at]gmail.com
+- 😄 Pronouns: he/him/mas
+- ⚡ Fun fact: I don't know any games, seriously! :D
 
 <!--
 **fsevenm/fsevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
