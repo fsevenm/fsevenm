@@ -4,7 +4,7 @@
 - 💬 Ask me about anything that satisfies you
 - 📫 How to reach me: mail to ayubaswad[at]gmail[dot]com
 - 😄 Pronouns: he/him/mas
-- ⚡ Fun fact: I don't know any games, seriously! :D
+- ⚡ Fun fact: I don't like playing games while many programmers do, seriously! :D
 
 <!--
 **fsevenm/fsevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
