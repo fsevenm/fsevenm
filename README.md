@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working @tictag.io as a backend engineer
+- 🔭 I’m currently working @tictag.io as a software engineer
 - 🌱 I’m currently learning to be a good coder
 - 📫 How to reach me: mail to ayubaswad[at]gmail[dot]com
 - 😄 Pronouns: he/him/mas
