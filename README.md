@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working @tictag.io as a software engineer
-- 🌱 I’m currently learning to code with principles
 - 📫 How to reach me: mail to ayubaswad[at]gmail[dot]com
 - 😄 Pronouns: he/him/mas
-- ⚡ Fun fact: I don't like playing games coz I never win :D
+- ⚡ I like watching movies
 
 <!--
 **fsevenm/fsevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
