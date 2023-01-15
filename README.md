@@ -1,8 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working @tictag.io as a software engineer
-- 📫 How to reach me: mail to ayubaswad[at]gmail[dot]com
-- 😄 Pronouns: he/him/mas
-- ⚡ I like watching movies
+### Hi there 👋 I’m currently working @tictag.io as a Software Engineer 👨‍💻
 
 <!--
 **fsevenm/fsevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
