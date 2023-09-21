@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋
 I’m a Software Engineer 👨‍💻,
 and currently working @ Tictag.io 🏡
 
